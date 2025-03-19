@@ -146,7 +146,7 @@
         <div class="section-content">
             <h2>Projects</h2>
             <ul>
-                <li><a href="#">digital portfolio</a></l> 
+                <li><a href="#">digital portfolio</a></li> 
                 <!-- Add more project links here -->
             </ul>
         </div>
